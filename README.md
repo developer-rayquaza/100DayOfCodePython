@@ -7,3 +7,4 @@ TODO: 100 days of code on python language....
 * Day004 - [Blockly Maze Completion Level 10](https://github.com/sanjaysanju618/100DayOfCodePython/blob/master/day004.py)
 * Day005 - [Maze Completion Using Right Wall](https://github.com/sanjaysanju618/100DayOfCodePython/blob/master/day005.py)
 * Day006 - [Maze Completion Using Left Wall](https://github.com/sanjaysanju618/100DayOfCodePython/blob/master/day006.py)
+* Day007 - [Find the Previous and next of the Given Number](https://github.com/sanjaysanju618/100DayOfCodePython/blob/master/day007.py)
