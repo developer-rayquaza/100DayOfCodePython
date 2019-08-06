@@ -56,3 +56,12 @@ TODO: 100 days of code on python language....
   8 // apples for each
   2 // apples left
   ```
+
+* Day009 - [Hours and minutes](https://github.com/sanjaysanju618/100DayOfCodePython/blob/master/day009.py)
+  - Output:-
+  ```
+  i/p
+  3900 // seconds
+  o/p
+  1 65 // hours minutes
+  ```
