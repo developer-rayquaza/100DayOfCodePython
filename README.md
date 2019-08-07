@@ -65,3 +65,14 @@ TODO: 100 days of code on python language....
   o/p
   1 65 // hours minutes
   ```
+* Day010 - [Distance between two points](https://github.com/sanjaysanju618/100DayOfCodePython/blob/master/day010.py)
+  - Output:-
+  ```
+  i/p
+  0
+  0
+  4
+  3
+  o/p
+  5
+  ```
