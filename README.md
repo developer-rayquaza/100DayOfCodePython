@@ -76,3 +76,11 @@ TODO: 100 days of code on python language....
   o/p
   5
   ```
+* Day011 - [Sum of digits](https://github.com/sanjaysanju618/100DayOfCodePython/blob/master/day011.c)
+  - Output:-
+  ```
+  i/p
+  123
+  o/p
+  6
+  ```
