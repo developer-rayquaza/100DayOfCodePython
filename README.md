@@ -16,7 +16,7 @@ TODO: 100 days of code on python language....
   o/p
   9 // Sum of Numbers
   ```
-* Day003 - [Area of right triangle](https://github.com/sanjaysanju618/100DayOfCodePython/blob/master/day003.py)
+## Day003 - [Area of right triangle](https://github.com/sanjaysanju618/100DayOfCodePython/blob/master/day003.py)
     - ![](http://i.imgur.com/6EkzVxA.jpg)
     - Output:-
   ```
@@ -26,18 +26,18 @@ TODO: 100 days of code on python language....
   o/p
   7.5 // area
   ```
-* Day004 - [Blockly Maze Completion Level 10](https://github.com/sanjaysanju618/100DayOfCodePython/blob/master/day004.py)
+## Day004 - [Blockly Maze Completion Level 10](https://github.com/sanjaysanju618/100DayOfCodePython/blob/master/day004.py)
   - Play BlocklyGame upto [level 10](https://blockly-games.appspot.com/maze)
-  - Paste the JS in **level_10_code**
-* Day005 - [Maze Completion Using Right Wall](https://github.com/sanjaysanju618/100DayOfCodePython/blob/master/day005.py)
+  - Paste the JS in ####level_10_code####
+## Day005 - [Maze Completion Using Right Wall](https://github.com/sanjaysanju618/100DayOfCodePython/blob/master/day005.py)
   - Play BlocklyGame upto [level 10](https://blockly-games.appspot.com/maze)
-  - Paste the JS in **level_10_code**
+  - Paste the JS in ####level_10_code####
   - Based on left wall....
-* Day006 - [Maze Completion Using Left Wall](https://github.com/sanjaysanju618/100DayOfCodePython/blob/master/day006.py)
+## Day006 - [Maze Completion Using Left Wall](https://github.com/sanjaysanju618/100DayOfCodePython/blob/master/day006.py)
   - Play BlocklyGame upto [level 10](https://blockly-games.appspot.com/maze)
-  - Paste the JS in **level_10_code**
+  - Paste the JS in ####level_10_code####
   - Based on right wall....
-* Day007 - [Find the Previous and next of the Given Number](https://github.com/sanjaysanju618/100DayOfCodePython/blob/master/day007.py)
+## Day007 - [Find the Previous and next of the Given Number](https://github.com/sanjaysanju618/100DayOfCodePython/blob/master/day007.py)
   - Output:-
   ```
   i/p
@@ -46,7 +46,7 @@ TODO: 100 days of code on python language....
   The next number for the number 179 is 180
   The previous number for the number 179 is 178
   ```
-* Day008 - [Apple Sharing](https://github.com/sanjaysanju618/100DayOfCodePython/blob/master/day008.py)
+## Day008 - [Apple Sharing](https://github.com/sanjaysanju618/100DayOfCodePython/blob/master/day008.py)
   - Output:-
   ```
   i/p
@@ -57,7 +57,7 @@ TODO: 100 days of code on python language....
   2 // apples left
   ```
 
-* Day009 - [Hours and minutes](https://github.com/sanjaysanju618/100DayOfCodePython/blob/master/day009.py)
+## Day009 - [Hours and minutes](https://github.com/sanjaysanju618/100DayOfCodePython/blob/master/day009.py)
   - Output:-
   ```
   i/p
@@ -65,7 +65,7 @@ TODO: 100 days of code on python language....
   o/p
   1 65 // hours minutes
   ```
-* Day010 - [Distance between two points](https://github.com/sanjaysanju618/100DayOfCodePython/blob/master/day010.py)
+## Day010 - [Distance between two points](https://github.com/sanjaysanju618/100DayOfCodePython/blob/master/day010.py)
   - Output:-
   ```
   i/p
@@ -76,7 +76,7 @@ TODO: 100 days of code on python language....
   o/p
   5
   ```
-* Day011 - [Sum of digits](https://github.com/sanjaysanju618/100DayOfCodePython/blob/master/day011.py)
+## Day011 - [Sum of digits](https://github.com/sanjaysanju618/100DayOfCodePython/blob/master/day011.py)
   - Output:-
   ```
   i/p
@@ -84,7 +84,7 @@ TODO: 100 days of code on python language....
   o/p
   6
   ```
-* Day012 - [Odd or Even](https://github.com/sanjaysanju618/100DayOfCodePython/blob/master/day012.py)
+## Day012 - [Odd or Even](https://github.com/sanjaysanju618/100DayOfCodePython/blob/master/day012.py)
   - Output:-
   ```
   i/p
