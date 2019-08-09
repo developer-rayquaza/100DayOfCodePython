@@ -1,12 +1,12 @@
 # 100DayOfCodePython
 TODO: 100 days of code on python language.... 
 
-* Day001 - [Hello Greeting](https://github.com/sanjaysanju618/100DayOfCodePython/blob/master/day001.py)
+## Day001 - [Hello Greeting](https://github.com/sanjaysanju618/100DayOfCodePython/blob/master/day001.py)
   - Output:-
   ```
   Hello, Harry!
   ```
-* Day002 - [Sum of three numbers](https://github.com/sanjaysanju618/100DayOfCodePython/blob/master/day002.py)
+## Day002 - [Sum of three numbers](https://github.com/sanjaysanju618/100DayOfCodePython/blob/master/day002.py)
   - Output:-
   ```
   i/p
