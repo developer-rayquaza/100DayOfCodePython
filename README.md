@@ -76,11 +76,23 @@ TODO: 100 days of code on python language....
   o/p
   5
   ```
-* Day011 - [Sum of digits](https://github.com/sanjaysanju618/100DayOfCodePython/blob/master/day011.c)
+* Day011 - [Sum of digits](https://github.com/sanjaysanju618/100DayOfCodePython/blob/master/day011.py)
   - Output:-
   ```
   i/p
   123
   o/p
   6
+  ```
+* Day012 - [Odd or Even](https://github.com/sanjaysanju618/100DayOfCodePython/blob/master/day012.py)
+  - Output:-
+  ```
+  i/p
+  5
+  o/p
+  odd
+  i/p
+  8
+  o/p
+  even
   ```
