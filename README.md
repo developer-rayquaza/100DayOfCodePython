@@ -96,3 +96,31 @@ TODO: 100 days of code on python language....
   o/p
   even
   ```
+## Day013 - [Days in Month](https://github.com/sanjaysanju618/100DayOfCodePython/blob/master/day013.py)
+   - Output:-
+   ```
+   i/p
+   1 // jan
+   o/p
+   31 // days
+   ```
+## Day014 - [Minimum of Three](https://github.com/sanjaysanju618/100DayOfCodePython/blob/master/day014.py)
+  - Output:-
+  ```
+  i/p
+  5
+  3
+  7
+  o/p
+  3
+  ```
+## Day015 - [Leap Year](https://github.com/sanjaysanju618/100DayOfCodePython/blob/master/day015.py)
+  - Output:-
+  ```
+  i/p
+  2012
+  o/p
+  LEAP
+  ```
+  
+  
