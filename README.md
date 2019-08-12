@@ -122,5 +122,36 @@ TODO: 100 days of code on python language....
   o/p
   LEAP
   ```
-  
-  
+## Day016 - [Jugs for Three](https://github.com/sanjaysanju618/100DayOfCodePython/blob/master/day016.py)
+  - Output:-
+  ```
+  i/p
+  33
+  o/p
+  Jugs
+  i/p
+  112
+  o/p
+  112
+  ```
+## Day017 - [Mugs for Five](https://github.com/sanjaysanju618/100DayOfCodePython/blob/master/day017.py)
+  - Output:-
+  ```
+  i/p
+  3
+  o/p
+  Jugs
+  i/p
+  15
+  o/p
+  JugsMugs
+  ```
+## Day018 - [Membership: Digit in Number](https://github.com/sanjaysanju618/100DayOfCodePython/blob/master/day018.py)
+   Output:-
+   ```
+   i/p
+   4
+   234
+   o/p
+   True
+   ```
